@@ -20,7 +20,7 @@ Zurzeit kann man nur ein Button auf jeder Seite einbinden (wird noch geändert).
 Bei Fragen oder Probleme oder Anregungen bitte mich anschreiben.
 Oder bei mir in Forum posten.
 <h2><a href="https://soforthilfe-forum.de">Soforthilfe-forum.de</a></h2>
-<h2><a href="http://basti1012.de">My Homepage</a></h2>
+
 
 
 
