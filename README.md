@@ -17,9 +17,12 @@ Es können so viele Buttons erstellen werden wie sie wollen.
 Zurzeit kann man nur ein Button auf jeder Seite einbinden (wird noch geändert).
 8. Bei der Datei like.php kann man alle Buttons mit der abgegebener Wertung auf einmal sehen.
 <img src="https://github.com/basti1012/like-Buttons/blob/main/like.png">
+
+<h2><a href="https://basti1012.bplaced.net/index.php?ordner=tools&name=Like_Buttons">Lve ansicht / Testen</a></h2>
+
 Bei Fragen oder Probleme oder Anregungen bitte mich anschreiben.
 Oder bei mir in Forum posten.
-<h2><a href="https://soforthilfe-forum.de">Soforthilfe-forum.de</a></h2>
+<h2><a href="https://javascript-forum.de">Soforthilfe-forum.de</a></h2>
 
 
 
